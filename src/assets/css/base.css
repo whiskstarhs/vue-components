@@ -1,0 +1,12 @@
+/* 项目自身的reset属性 */
+div{
+  box-sizing: border-box;
+}
+
+html {
+  background: #f3f3f3;
+}
+
+.pageContainer {
+  height: 100%;
+}
